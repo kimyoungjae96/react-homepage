@@ -1,1 +1,2 @@
-npm install express --save
+몽고 DB, Node js, react 사용
+
